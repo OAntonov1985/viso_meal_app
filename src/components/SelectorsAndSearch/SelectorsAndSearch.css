@@ -1,0 +1,11 @@
+.selector_and_search_container {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.selector_and_search_input {
+    padding: 6px;
+    min-width: 100px;
+}

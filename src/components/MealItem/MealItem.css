@@ -1,0 +1,29 @@
+.meal_item_container {
+    max-width: 210px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 6px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.meal_item_link {
+    height: 100%;
+}
+.meal_item_title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px;
+}
+
+.meal_item_checkbox_container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 6px;
+}
+.meal_item_info {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px;
+}

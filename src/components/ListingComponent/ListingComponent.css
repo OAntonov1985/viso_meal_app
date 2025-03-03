@@ -1,0 +1,15 @@
+.listing_container {
+    margin: 20px;
+    display: flex;
+    flex: 1;
+    height: 100%;
+}
+.listing_list {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex: 1;
+    gap: 24px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

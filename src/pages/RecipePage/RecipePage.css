@@ -1,0 +1,33 @@
+.meal-container {
+    padding: 20px;
+}
+
+.meal-container h1 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.meal-container img {
+    width: 100%;
+    max-width: 300px;
+    margin: 20px 0;
+}
+
+.meal-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.meal-container ul li {
+    font-size: 1rem;
+    margin: 5px 0;
+}
+
+.youtube-video {
+    margin-top: 20px;
+}
+
+.youtube-video img {
+    width: 100%;
+    max-width: 500px;
+}
